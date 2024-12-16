@@ -14,7 +14,7 @@ This tutorial outlines the set up and configuaration of a Linux Ubuntu Virtual M
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Internet Information Services (IIS)
+
 
 <h2>Operating Systems Used </h2>
 
