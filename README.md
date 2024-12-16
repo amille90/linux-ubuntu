@@ -3,7 +3,7 @@
 </p>
 
 <h1>Linux Ubuntu Virtual Machine Configuration in Azure</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+This tutorial outlines the set up and configuaration of a Linux Ubuntu Virtual Machine inside of Microsoft Azure.<br />
 
 
 <h2>Video Demonstration</h2>
