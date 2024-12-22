@@ -13,7 +13,7 @@ This project tutorial outlines the set up and configuration of a Linux Ubuntu Vi
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Linux/Ubuntu</b> 
 
 <h2>List of Prerequisites</h2>
 
