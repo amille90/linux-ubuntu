@@ -127,7 +127,7 @@ Step 13: You will see here both the windows10-vm and linux ubuntu virtual machin
 
 </p>
 <br />
-Step 14: If you look down at both of these imagaes closely you will observe that both of these virtual machines share the same virtual network as well, that being lab2-vnet.
+Step 14: If you look down at both of these images closely you will observe that both of these virtual machines share the same virtual network as well, that being lab2-vnet.
 <p>
 <img src="https://i.imgur.com/CmVNxiC.png"/>
  
