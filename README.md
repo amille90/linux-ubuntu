@@ -3,7 +3,7 @@
 </p>
 
 <h1>Linux Ubuntu Virtual Machine Configuration in Azure</h1>
-This project tutorial outlines the set up and configuaration of a Linux Ubuntu Virtual Machine inside of Microsoft Azure.<br />
+This project tutorial outlines the set up and configuration of a Linux Ubuntu Virtual Machine inside of Microsoft Azure.<br />
 
 <h2>Environments and Technologies Used</h2>
 
