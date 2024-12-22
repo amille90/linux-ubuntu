@@ -3,12 +3,7 @@
 </p>
 
 <h1>Linux Ubuntu Virtual Machine Configuration in Azure</h1>
-This tutorial outlines the set up and configuaration of a Linux Ubuntu Virtual Machine inside of Microsoft Azure.<br />
-
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
+This project tutorial outlines the set up and configuaration of a Linux Ubuntu Virtual Machine inside of Microsoft Azure.<br />
 
 <h2>Environments and Technologies Used</h2>
 
@@ -22,13 +17,12 @@ This tutorial outlines the set up and configuaration of a Linux Ubuntu Virtual M
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Computer Desktop/Laptop
+- Azure Account
+- Remote Desktop
+- Wifi Connection
 
-<h2>Installation Steps</h2>
+<h2>Configuration Steps</h2>
 
 <p>
 <img src="https://i.imgur.com/wS9EQLY.png"/>
