@@ -23,7 +23,7 @@ This project tutorial outlines the set up and configuration of a Linux Ubuntu Vi
 - Wifi Connection
 
 <h2>Configuration Steps</h2>
-Step 1: Go to the Azure Virtual Mchine homepage and press create azure virtual machine in dropdown menu.
+Step 1: Go to the Azure Virtual Machine homepage and press create azure virtual machine in dropdown menu.
 <p>
 <img src="https://i.imgur.com/wS9EQLY.png"/>
 </p>
