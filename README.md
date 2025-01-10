@@ -48,7 +48,7 @@ Step 3: For the virtual machine name call it LinuxUbuntu. Choose a region thats 
 <br />
 Step 4: Choose an availability zone.
 <p>
-<img src="https://i.imgur.com/9ePg5Ye.png"/>
+<img src="https://i.imgur.com/mAseLt5.png"/>
 </p>
 <p>
 
