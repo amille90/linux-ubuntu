@@ -72,7 +72,7 @@ Step 6: Next, under Administrator Account select the password option.
 <br />
 Step 7: Create a usename and password in order to proceed with the virtual machine creation. Press Next: Disks.
 <p>
-<img src="https://i.imgur.com/Ggv3enf.png"/>
+<img src="https://i.imgur.com/YIctvqS.png"/>
 </p>
 <p>
 
