@@ -64,7 +64,7 @@ Step 6: Next, under Administrator Account select the password option.
 <br />
 
 <p>
-<img src="https://i.imgur.com/Sob6u9C.png"/>
+<img src="https://i.imgur.com/sa1yPQC.png"/>
 </p>
 <p>
 
