@@ -80,7 +80,7 @@ Step 7: Create a usename and password in order to proceed with the virtual machi
 <br />
 Step 8: On the network interface page select the virtual network that was created for the windows10-vm in the previous project tutorial. Then press review and create.
 <p>
-<img src="https://i.imgur.com/WyFzAmG.png"/>
+<img src="https://i.imgur.com/ztOQCgy.png"/>
 </p>
 <p>
 
@@ -89,7 +89,7 @@ Step 8: On the network interface page select the virtual network that was create
 Step 9:  Validation banner should come up. Press Create.
 <p>
 <p>
-<img src="https://i.imgur.com/W2BMWGf.png"/>
+<img src="https://i.imgur.com/H05ChVQ.png"/>
 </p>
 <p>
 
@@ -97,7 +97,7 @@ Step 9:  Validation banner should come up. Press Create.
 <br />
 Step 10: Deployment should be in progress. This step usually takes a minute or two to process.
 <p>
-<img src="https://i.imgur.com/qZcadiA.png"/>
+<img src="https://i.imgur.com/P5bxP0j.png"/>
 </p>
 <p>
 
@@ -105,7 +105,7 @@ Step 10: Deployment should be in progress. This step usually takes a minute or t
 <br />
 Step 11: Deployment should be completed.
 <p>
-<img src="https://i.imgur.com/M44pKAz.png"/>
+<img src="https://imgur.com/a/kbTsjt1"/>
 </p>
 <p>
 
@@ -113,7 +113,7 @@ Step 11: Deployment should be completed.
 <br />
 Step 12: Next go onto the virtual machines page.
 <p>
-<img src="https://i.imgur.com/a78y0Eu.png"/>
+<img src="https://i.imgur.com/3bJtzeV.png"/>
 </p>
 <p>
 
