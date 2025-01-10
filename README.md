@@ -70,7 +70,7 @@ Step 6: Next, under Administrator Account select the password option.
 
 </p>
 <br />
-Step 7: Create a usename and password in order to proceed with the virtual machine creation. Press Next: Disks.
+Step 7: Create a usename and password in order to proceed with the virtual machine creation. Press Next:Disks, then Next:Networking on the next page.
 <p>
 <img src="https://i.imgur.com/YIctvqS.png"/>
 </p>
@@ -78,7 +78,7 @@ Step 7: Create a usename and password in order to proceed with the virtual machi
 
 </p>
 <br />
-Step 8: Then press next: networking. On the networking page select the virtual network that was created for the windows10-vm in the previous project tutorial. Then press review and create.
+Step 8:On the networking page select the virtual network that was created for the windows10-vm in the previous project tutorial. Then press review and create.
 <p>
 <img src="https://i.imgur.com/WyFzAmG.png"/>
 </p>
