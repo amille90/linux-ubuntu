@@ -40,7 +40,7 @@ Step 2: In the resource group box select PANlab_RG.
 <br />
 Step 3: For the virtual machine name call it LinuxUbuntu. Choose a region thats appropiate to your location.
 <p>
-<img src="https://i.imgur.com/w19Oozg.png"/>
+<img src="https://i.imgur.com/B2iUSfh.png"/>
 </p>
 <p>
 
