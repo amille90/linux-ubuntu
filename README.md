@@ -56,7 +56,7 @@ Step 4: Choose an availability zone.
 <br />
 Step 5: For image choose Ubuntu Server 22.04 LTS - x64 Gen2 and for size use the standard_D4s_V3 - 4 vcpus, 16 GiB memory
 <p>
-<img src="https://i.imgur.com/t3cDAiB.png"/>
+<img src="https://i.imgur.com/Ti9fAZd.png"/>
 </p>
 <p>
 Step 6: Next, under Administrator Account select the password option.
