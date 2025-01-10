@@ -105,7 +105,7 @@ Step 10: Deployment should be in progress. This step usually takes a minute or t
 <br />
 Step 11: Deployment should be completed.
 <p>
-<img src="https://imgur.com/a/kbTsjt1"/>
+<img src="https://i.imgur.com/6n5UXes.png"/>
 </p>
 <p>
 
