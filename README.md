@@ -78,7 +78,7 @@ Step 7: Create a usename and password in order to proceed with the virtual machi
 
 </p>
 <br />
-Step 8:On the networking page select the virtual network that was created for the windows10-vm in the previous project tutorial. Then press review and create.
+Step 8: On the network interface page select the virtual network that was created for the windows10-vm in the previous project tutorial. Then press review and create.
 <p>
 <img src="https://i.imgur.com/WyFzAmG.png"/>
 </p>
