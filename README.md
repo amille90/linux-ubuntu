@@ -32,7 +32,7 @@ Step 1: Go to the Azure Virtual Machine homepage and press create azure virtual 
 <br />
 Step 2: In the resource group box select PANlab_RG.
 <p>
-<img src="https://i.imgur.com/7HWLK3S.png"/>
+<img src="https://i.imgur.com/Gd1Gwai.png"/>
 </p>
 <p>
 
